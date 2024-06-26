@@ -9,12 +9,18 @@ If you want to reach out to me for any doubts, issues, or suggestions - feel fre
 
 My Skills
 
-Languages: Java, Kotlin, Python
+Languages: Java, Python
+
 Frameworks: Spring, Spring Boot, Hibernate
-Frontend Development: HTML/HTML5, CSS/CSS3, JavaScript
+
+Frontend Development: HTML/HTML5, CSS/CSS3, JavaScript ,React
+
 Backend Development: Java EE, Spring MVC, Spring Data JPA
+
 Database: MySQL, PostgreSQL, MongoDB, Oracle
+
 Service: AWS, Docker, Kubernetes, Jenkins
+
 Other Tools: Git, GitHub, Bitbucket, GitLab, Trello, Jira, Maven, Gradle
 
 
